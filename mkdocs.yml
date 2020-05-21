@@ -22,7 +22,7 @@
 site_name: 深科技LBS技术文档
 site_url: https://kaifa.cn/
 repo_url: https://github.com/kaifapdc/lbs-web
-edit_uri: docs/src/markdown
+edit_uri: "" 
 site_description: 深科技LBS技术文档
 copyright: |
   Copyright &copy; 2014 - 2020 <a href="https://kaifa.cn"  target="_blank" rel="noopener">深科技产品开发中心</a>
