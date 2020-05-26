@@ -28,7 +28,7 @@
 
 将“套件”接入LBS系统，需要一些配置，您需要下载以下的软件，用于配置：
 
-* [软件1 (Jeffery 提供)](./buyhardware.md)
+* [软件1 (Jeffery 提供)](./assets/images/蓝牙定位标签1.png)
 * [软件2 (Jeffery 提供)]()
 
 ### 学习配置方法 
