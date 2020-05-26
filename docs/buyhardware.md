@@ -40,7 +40,7 @@ LoRa网关
 
 ### 学习配置方法
 
-LoRa网关使用ConfigMaster进行配置，配置方法如下：  
+LoRa网关使用ConfigMaster进行配置,配置之前需要确认LoRa网关已连上电源接上网线，并且电脑与LoRa网关连在同一个路由器下，配置方法如下：  
 
 ![RUNOOB 图标](./assets/images/gwsetting1.png "markdown")  
 
