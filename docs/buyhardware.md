@@ -16,7 +16,7 @@
 * LoRa网关
 
 蓝牙定位标签
-![RUNOOB 图标](C:\Users\shenggencheng\Desktop\定位标签1.png)
+![RUNOOB 图标](C:\\Users\\shenggencheng\\Desktop\\定位标签1.png)
 
 ## 如何购买
 
