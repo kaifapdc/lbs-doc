@@ -16,7 +16,7 @@
 * LoRa网关
 
 蓝牙定位标签
-![RUNOOB 图标](https://t8.baidu.com/it/u=4114540844,3814086820&fm=193&app=53&size=w414&n=0&g=0n&f=jpeg?sec=1593062153&t=febcdd96bd7d8c7ef9967545baaad00e)
+![RUNOOB 图标](https://t8.baidu.com/it/u=4114540844,3814086820&fm=193&app=53&size=w414&n=0&g=0n&f=jpeg?sec=1593062153&t=febcdd96bd7d8c7ef9967545baaad00e "markdown")
 
 ## 如何购买
 
