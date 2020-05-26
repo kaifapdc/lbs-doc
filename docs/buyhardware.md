@@ -15,6 +15,15 @@
 * 定位微基站
 * LoRa网关
 
+蓝牙定位标签  
+![RUNOOB 图标](./assets/images/beacon1.png "markdown")
+![RUNOOB 图标](./assets/images/beacon2.png "markdown")
+
+定位微基站  
+![RUNOOB 图标](./assets/images/station.png "markdown")
+
+LoRa网关  
+![RUNOOB 图标](./assets/images/gateway.png "markdown")
 
 ## 如何购买
 
@@ -22,16 +31,20 @@
 
 ## 如何配置
 
-### 下载配置软件 
+### 下载配置软件
 
 将“套件”接入LBS系统，需要一些配置，您需要下载以下的软件，用于配置：
 
-* [软件1 (Jeffery 提供)]()
-* [软件2 (Jeffery 提供)]()
+* [ConfigMaster](./assets/ConfigMaster_20181211.zip)
 
-### 学习配置方法 
 
-您可以观看[此视频 (Jeffery提供)]()来了解配置的方法
+### 学习配置方法
+
+LoRa网关使用ConfigMaster进行配置，配置方法如下：  
+
+![RUNOOB 图标](./assets/images/gwsetting1.png "markdown")  
+
+![RUNOOB 图标](./assets/images/gwsetting2.jpg "markdown")
 
 ## 安装套件
 
