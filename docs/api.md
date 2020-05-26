@@ -1,11 +1,11 @@
-# 学习API（需要 {==刘兴平==} 提供内容）
+# API示例
 
-## API
+## 历史轨迹API
 
 
 **简要描述：** 
 
-- 人员历史轨迹查询
+- 查询人员在一段时间内的历史轨迹
 
 **请求URL：** 
 - ` http://xx.com/track/list  `
@@ -19,9 +19,9 @@
 |:----    |:---|:----- |-----   |
 |name     |否  |string | 人员姓名    |
 |number     |否  |string | 工号  |
-|staff_id  |否  |int | 人员id,name,number,staff_id至少有一个不为空  |
-|starttime     |否  |int | 开始时间 （时间戳） |
-|endtime     |否  |int | 结束时间  |
+|staff_id  |否  |int | name,number,staff_id至少有一个不为空  |
+|starttime     |是  |int | 开始时间 （时间戳） |
+|endtime     |是  |int | 结束时间  |
 
  **返回示例**
  
@@ -75,15 +75,6 @@
 
 
 
-{==刘兴平==}可以参考使用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 的其他网站来设计PDC的API培训内容:
-
-```console
-https://interactive.davischallenge.org/docs/session/
-```
-
-```console
-https://doc.botsquad.com/dev/rest/#/
-```
 
 ## 购买套件
 
