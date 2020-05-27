@@ -20,7 +20,7 @@
 ![RUNOOB 图标](./assets/images/beacon2.png "markdown")
 
 定位微基站  
-![RUNOOB 图标](./assets/images/station.png "markdown")
+![定位微基站](./assets/images/station.png "markdown")
 
 LoRa网关  
 ![RUNOOB 图标](./assets/images/gateway.png "markdown")
