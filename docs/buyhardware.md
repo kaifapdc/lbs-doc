@@ -16,14 +16,14 @@
 * LoRa网关
 
 蓝牙定位标签  
-![蓝牙定位标签1](./assets/images/beacon1.png "markdown")
-![蓝牙定位标签2](./assets/images/beacon2.png "markdown")
+![蓝牙定位标签1](../assets/images/beacon1.png "markdown")
+![蓝牙定位标签2](../assets/images/beacon2.png "markdown")
 
 定位微基站  
-![定位微基站](./assets/images/station.png "markdown")
+![定位微基站](../assets/images/station.png "markdown")
 
 LoRa网关  
-![LoRa网关](./assets/images/gateway.png "markdown")
+![LoRa网关](../assets/images/gateway.png "markdown")
 
 ## 如何购买
 
@@ -35,16 +35,16 @@ LoRa网关
 
 将“套件”接入LBS系统，需要一些配置，您需要下载以下的软件，用于配置：
 
-* [ConfigMaster](./assets/ConfigMaster_20181211.zip)
+* [ConfigMaster](../assets/ConfigMaster_20181211.zip)
 
 
 ### 学习配置方法
 
 LoRa网关使用ConfigMaster进行配置,配置之前需要确认LoRa网关已连上电源接上网线，并且电脑与LoRa网关连在同一个路由器下，配置方法如下：  
 
-![配置1](./assets/images/gwsetting1.png "markdown")  
+![配置1](../assets/images/gwsetting1.png "markdown")  
 
-![配置2](./assets/images/gwsetting2.jpg "markdown")
+![配置2](../assets/images/gwsetting2.jpg "markdown")
 
 ## 安装套件
 
