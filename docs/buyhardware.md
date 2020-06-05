@@ -42,24 +42,23 @@ LoRa网关
 
 LoRa网关使用ConfigMaster进行配置,配置之前需要确认LoRa网关已连上电源接上网线，并且电脑与LoRa网关连在同一个路由器下，配置方法如下：  
 
-![配置1](../assets/images/gwsetting1.png "markdown")  
+![配置1](../assets/images/gwsetting1.png "深科技LBS")  
 
-![配置2](../assets/images/gwsetting2.jpg "markdown")
+![配置2](../assets/images/gwsetting2.jpg "深科技LBS")
 
 ## 安装套件
 
 完成配置后，套件即可投入使用，套件的安装方法如下：
 
-### 安装视频
+### 安装图示
 
-[安装视频 (邹苏鹏 提供)]()
+![LBS标签](../assets/images/lbs-tag-wear.jpg "深科技LBS")  
+
+![LBS定位基站](../assets/images/lbs-base-mount.jpg "深科技LBS")
+
+![LBS网关](../assets/images/gateway-mount.jpg "深科技LBS")
 
 
-## 验证套件
-
-套件投入使用后，开始与服务器通讯，验证套件是否正常工作的方法如下
-
-[验证方法 (刘兴平 提供)]()
 
 
 感谢使用深科技的产品，欢迎[联系我们](./contact.md)探讨更多的合作！
