@@ -52,11 +52,11 @@ LoRa网关使用ConfigMaster进行配置,配置之前需要确认LoRa网关已�
 
 ### 安装图示
 
-![LBS标签](../assets/images/lbs-tag-wear.jpg "深科技LBS")  
+![LBS网关](../assets/images/gateway-mount.jpg "深科技LBS") 
 
 ![LBS定位基站](../assets/images/lbs-base-mount.jpg "深科技LBS")
 
-![LBS网关](../assets/images/gateway-mount.jpg "深科技LBS")
+![LBS标签](../assets/images/lbs-tag-wear.jpg "深科技LBS") 
 
 
 
